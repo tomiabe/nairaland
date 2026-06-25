@@ -8,6 +8,8 @@ A modern UI redesign of the [Nairaland](https://nairaland.com) forum, built with
 
 > **Disclaimer:** This is an **unofficial, personal exploration project** and an attempted redesign of the Nairaland forum. It is not affiliated with, endorsed by, or connected to Nairaland or its owners. The original design and brand remain the property of Nairaland.
 
+**Live demo:** https://tomiabe.github.io/nairaland/
+
 ---
 
 ## Run Locally
